@@ -21,4 +21,8 @@
 
 ![h3](https://user-images.githubusercontent.com/91874537/161575923-dc1144d3-97a9-4970-b8ba-029f4ffc4353.PNG)
 
-## Ya tendriamos descargado Doker
+## Ya tendriamos descargado Doker y solo nos quedaría crearnos una cuenta
+## Para crear la cuenta Vamos a la Pagina principal de Doker y le damos en Sing in
+![h1](https://user-images.githubusercontent.com/91874537/162720197-1938bdfc-1824-4d37-9d7f-cccaa4c0cd13.PNG)
+
+### Una vez tengamos creada la cuenta solo nos quedaria verificar el Gmail 
