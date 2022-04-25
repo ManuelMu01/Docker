@@ -1,5 +1,5 @@
-# Descargar Doker
-## Descargamos doker en la pagina principal de docker 
+# Descargar Docker
+## Descargamos docker en la pagina principal de docker 
 
 ![h1](https://user-images.githubusercontent.com/91874537/161525912-8e525ba4-7d0d-442a-a27b-4de993d8e1bf.PNG)
 
