@@ -54,3 +54,4 @@
 ## Ya lo tendriamos en la virtual box
 
 ![6](https://user-images.githubusercontent.com/91874537/165038639-4e985982-ea52-4d1b-ad46-52c83cd35853.PNG)
+
