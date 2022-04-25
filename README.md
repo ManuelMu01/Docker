@@ -26,3 +26,24 @@
 ![h1](https://user-images.githubusercontent.com/91874537/162720197-1938bdfc-1824-4d37-9d7f-cccaa4c0cd13.PNG)
 
 ### Una vez tengamos creada la cuenta solo nos quedaria verificar el Gmail 
+
+### Luego tendriamos que ir a la bios y activar un recuadro para que funcione correctamente docker 
+
+### Si no pudieramos descargarlo podríamos usar alpine 
+
+Primero nos decargamos alpine en su pagina web
+![i1](https://user-images.githubusercontent.com/91874537/165036404-ee146142-9d44-49f0-8d2e-7078b103c83c.PNG)
+
+Una vez descargado lo meteremos en le oracle
+![lo descargamos y lo metemos en el oracle](https://user-images.githubusercontent.com/91874537/165038355-28cbd9d2-49ea-4d2e-933e-b523ec5a5b9b.PNG)
+
+Ponemos estos ajustes ya que lo haremos en linux
+![3](https://user-images.githubusercontent.com/91874537/165038422-7385106e-94f7-41f4-9153-50b028e49054.PNG)
+ 
+ Cantidad de Ram
+ ![4](https://user-images.githubusercontent.com/91874537/165038465-a9289e83-345b-4cbb-9b11-260ff7dcdb4c.PNG)
+
+Memoria
+![5](https://user-images.githubusercontent.com/91874537/165038494-6cd0857b-1cbc-4f9f-901a-92d1348e6b73.PNG)
+
+Ya lo tendriamos en la virtual box
