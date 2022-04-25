@@ -31,19 +31,26 @@
 
 ### Si no pudieramos descargarlo podríamos usar alpine 
 
-Primero nos decargamos alpine en su pagina web
+## Primero nos decargamos alpine en su pagina web
+
 ![i1](https://user-images.githubusercontent.com/91874537/165036404-ee146142-9d44-49f0-8d2e-7078b103c83c.PNG)
 
-Una vez descargado lo meteremos en le oracle
+## Una vez descargado lo meteremos en le oracle
+
 ![lo descargamos y lo metemos en el oracle](https://user-images.githubusercontent.com/91874537/165038355-28cbd9d2-49ea-4d2e-933e-b523ec5a5b9b.PNG)
 
-Ponemos estos ajustes ya que lo haremos en linux
+## Ponemos estos ajustes ya que lo haremos en linux
+
 ![3](https://user-images.githubusercontent.com/91874537/165038422-7385106e-94f7-41f4-9153-50b028e49054.PNG)
  
- Cantidad de Ram
+## Cantidad de Ram
+
  ![4](https://user-images.githubusercontent.com/91874537/165038465-a9289e83-345b-4cbb-9b11-260ff7dcdb4c.PNG)
 
-Memoria
+## Memoria
+
 ![5](https://user-images.githubusercontent.com/91874537/165038494-6cd0857b-1cbc-4f9f-901a-92d1348e6b73.PNG)
 
-Ya lo tendriamos en la virtual box
+## Ya lo tendriamos en la virtual box
+
+![6](https://user-images.githubusercontent.com/91874537/165038639-4e985982-ea52-4d1b-ad46-52c83cd35853.PNG)
